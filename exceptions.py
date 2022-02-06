@@ -1,0 +1,2 @@
+
+class MicNotFoundException(Exception): pass

@@ -1,0 +1,6 @@
+.cache-*
+logs/*
+.idea/
+__pycache__/
+
+credentials.py
